@@ -9,10 +9,10 @@ enableRobotsTXT = true
     color = 'linen'                           # linen, wheat, gray, light
 
     # header social icons
-    twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
-    instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+    twitter = 'shkhassann'                    # twitter.com/YOUR_TWITTER_ID
+    instagram = 'shkhassann'                  # instagram.com/shkhassann
 
-#    avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+#    avatar = 'GRAVATAR_EMAIL'                # gravatar email or image url
     name = 'Hassan Ahmad'
     bio = 'Filmmaker'
 
