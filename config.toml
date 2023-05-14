@@ -1,0 +1,30 @@
+baseURL = 'https://hassanfilms-8d2e4.web.app'
+languageCode = 'en-us'
+title = 'Hassan Films'
+theme = 'paper'
+enableRobotsTXT = true
+
+[params]
+    # color style
+    color = 'linen'                           # linen, wheat, gray, light
+
+    # header social icons
+    twitter = 'YOUR_TWITTER_ID'               # twitter.com/YOUR_TWITTER_ID
+    instagram = 'YOUR_INSTAGRAM_ID'           # instagram.com/YOUR_INSTAGRAM_ID
+
+#    avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
+#   name = 'Hassan Ahmad'
+#   bio = 'Filmmaker'
+
+
+[menu]
+    [[menu.main]]
+        identifier = "contact"
+        name = "Contact"
+        url = "/contact/"
+        weight = 10
+
+[sitemap]
+    changefreq = 'monthly'
+    filename = 'sitemap.xml'
+    priority = 0.5

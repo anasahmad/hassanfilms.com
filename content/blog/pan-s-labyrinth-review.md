@@ -1,0 +1,10 @@
+---
+title: "Pan's Labyrinth - Review"
+date: 2023-05-12T23:01:30-05:00
+draft: false
+img: "/img/lab.png"
+---
+
+Guillermo del Toro took an interesting turn into the darkness with Pan’s Labyrinth. Just from the title and a few posters I’ve seen, I was not ready for this to be a fairytale. Although, I was expecting a mystical world with the most unreal and non-human like creatures but events of the Spanish Civil War going on in the background gave this film a terrifying touch which was actually what got me interested in the first place. Del Toro didn’t cut back on showing blood in the shape of violence and non-violence. The whole film was full of unsatisfying violence such as hitting the guy on his face with a bottle several times or slicing a mouth with knife from the inside. Not only that but the unsettling and disgusting creatures such as the toad living inside the tree or the Pale man with his eyes carved in his hands. That was terrifying but not as much to Ofelia. Her character is fond of such mystical creatures as she loves reading books and hearing these stores which is why she didn’t seem to be afraid of entering the trunk of the tree and facing that giant toad. It was obvious she wanted to be a part of this mystical universe, away from the horrors that was her life, and her being focused on doing all these tasks reflected that. The theme of Pan’s Labyrinth was not the only dark characteristic of the film as the production design and the color profile also added to the theme. Indoor scenes were mostly lit with warmer lights, but the colors of the set design were mostly set grayish which reflected the sadness and cruelty in those scenes. In the forest, the greens were dark but very apparent with the colder colors around. In terms of cinematography and editing, there were some great shots but what caught my eye the most were those transitions, mostly in the forest when the camera would slide into the trunk of a tree, into the next shot. A film almost 15 years old was really able to carry some important techniques in filmmaking that helps the piece in being timeless and not a pain to watch in 2021. 
+
+![Labyrinth](/img/lab.png)
